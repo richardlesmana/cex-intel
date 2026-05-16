@@ -82,7 +82,7 @@ _COMPETITOR_RE = {
 COUNTRY_PATTERNS: dict[str, str] = {
     # \bSingapore\b already matches "Singapore-based" (hyphen = word boundary)
     "Singapore": r"\bSingapore(?:an)?\b|\bMAS\b",
-    "Australia":  r"\bAustrali(?:a|an)\b|\bAUSTRAC\b|\bAussie\b",
+    "Australia":  r"\bAustrali(?:a|an)\b|\bAUSTRAC\b|\bAussie\b|\bAFSL\b|\bASIC\b",
 }
 
 _COUNTRY_RE = {

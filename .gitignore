@@ -29,3 +29,7 @@ Thumbs.db
 
 # Local data backups
 data/backup/
+
+# Generated scraper output (runtime artifacts)
+data/*.json
+data/*.png

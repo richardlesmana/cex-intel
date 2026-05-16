@@ -30,6 +30,8 @@ Thumbs.db
 # Local data backups
 data/backup/
 
-# Generated scraper output (runtime artifacts)
+# Generated scraper output (runtime artifacts - NOT tracked)
 data/*.json
 data/*.png
+
+# published_data/ IS tracked - contains dashboard.json for the frontend

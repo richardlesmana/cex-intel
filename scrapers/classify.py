@@ -43,12 +43,23 @@ MODEL          = "claude-haiku-4-5-20251001"
 INPUT_COST_PER_M  = 0.80   # $ per 1M input tokens
 OUTPUT_COST_PER_M = 4.00   # $ per 1M output tokens
 
-SYSTEM_PROMPT = (
-    "You are a competitive intelligence analyst classifying crypto industry signals. "
-    "Return only a single word: one of "
-    "[product_launch, market_expansion, regulatory, partnership, operational, other]. "
-    "No explanation, no punctuation, just the category."
-)
+SYSTEM_PROMPT = """You are a competitive intelligence analyst classifying crypto industry signals about CRYPTO EXCHANGES specifically.
+
+Classify each entry into ONE category based on what the EXCHANGE itself is doing:
+
+- product_launch: the exchange is launching a new product, feature, or service THEY operate (NOT new token listings - those go to "other"; NOT third-party token price movements)
+- market_expansion: the exchange is entering a new country, region, or market with their own operations
+- regulatory: the exchange obtained a license, regulatory approval, government engagement, compliance milestone, or is subject to regulatory action
+- partnership: the exchange announced a business partnership, integration with another company, M&A, or investment
+- operational: delisting, fee change, maintenance, security incident, internal policy update, or platform-level operational change
+- other: anything that doesn't fit - including token price news, general industry commentary, third-party news that only mentions the exchange tangentially, market analysis, ecosystem news not specific to the exchange's own actions
+
+CRITICAL RULES:
+- If the article is primarily about a cryptocurrency TOKEN's price movement or performance (not the exchange's actions), classify as "other" even if the exchange is mentioned
+- If the article is about a DIFFERENT company's actions with only tangential mention of this exchange, classify as "other"
+- Only classify as product_launch / market_expansion / regulatory / partnership when the EXCHANGE ITSELF is the subject taking the action
+
+Return only a single word: the category. No explanation."""
 
 VALID_CATEGORIES = frozenset({
     "product_launch", "market_expansion", "regulatory",

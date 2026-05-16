@@ -647,7 +647,7 @@
         "Coinbase"
       ],
       "countries": [],
-      "signal_type": "regulatory"
+      "signal_type": "other"
     },
     {
       "id": "d1c443b227816ced",
@@ -877,7 +877,7 @@
         "Coinbase"
       ],
       "countries": [],
-      "signal_type": "operational"
+      "signal_type": "other"
     },
     {
       "id": "412db941c02f19ca",
@@ -1215,7 +1215,7 @@
         "Coinbase"
       ],
       "countries": [],
-      "signal_type": "regulatory"
+      "signal_type": "other"
     },
     {
       "id": "c54dba1db9c10498",
@@ -1267,7 +1267,7 @@
         "Binance"
       ],
       "countries": [],
-      "signal_type": "product_launch"
+      "signal_type": "other"
     },
     {
       "id": "720deecf292f368e",
@@ -1281,7 +1281,7 @@
         "Binance"
       ],
       "countries": [],
-      "signal_type": "operational"
+      "signal_type": "other"
     },
     {
       "id": "661fb43da7995c5b",
@@ -1369,7 +1369,7 @@
         "Coinbase"
       ],
       "countries": [],
-      "signal_type": "market_expansion"
+      "signal_type": "other"
     },
     {
       "id": "4528310ba48e8b87",
@@ -1383,7 +1383,7 @@
         "OKX"
       ],
       "countries": [],
-      "signal_type": "market_expansion"
+      "signal_type": "partnership"
     },
     {
       "id": "39fe28378ba1efff",
@@ -1397,7 +1397,7 @@
         "Coinbase"
       ],
       "countries": [],
-      "signal_type": "product_launch"
+      "signal_type": "other"
     },
     {
       "id": "12b4c0bb18452c4d",
@@ -1459,7 +1459,7 @@
         "Bybit"
       ],
       "countries": [],
-      "signal_type": "product_launch"
+      "signal_type": "other"
     },
     {
       "id": "1c244c6d49536698",
@@ -1595,7 +1595,7 @@
         "Bybit"
       ],
       "countries": [],
-      "signal_type": "regulatory"
+      "signal_type": "operational"
     },
     {
       "id": "8e74a48cf6bfa7ef",
@@ -1635,7 +1635,7 @@
         "Bybit"
       ],
       "countries": [],
-      "signal_type": "product_launch"
+      "signal_type": "other"
     },
     {
       "id": "57ff0a0f77e0d92a",
@@ -1649,7 +1649,7 @@
         "Coinbase"
       ],
       "countries": [],
-      "signal_type": "market_expansion"
+      "signal_type": "other"
     },
     {
       "id": "a5cb404a7e1af42b",
@@ -1689,7 +1689,7 @@
         "Binance"
       ],
       "countries": [],
-      "signal_type": "regulatory"
+      "signal_type": "other"
     },
     {
       "id": "c75a5cc2e735b721",
@@ -1741,7 +1741,7 @@
         "Bybit"
       ],
       "countries": [],
-      "signal_type": "product_launch"
+      "signal_type": "other"
     },
     {
       "id": "be64df8260e627e9",
@@ -1843,7 +1843,7 @@
         "Bybit"
       ],
       "countries": [],
-      "signal_type": "product_launch"
+      "signal_type": "other"
     },
     {
       "id": "2add68264f4890be",
@@ -1883,7 +1883,7 @@
         "Crypto.com"
       ],
       "countries": [],
-      "signal_type": "regulatory"
+      "signal_type": "operational"
     },
     {
       "id": "83652bb02ab0fcf4",
@@ -1911,7 +1911,7 @@
         "Crypto.com"
       ],
       "countries": [],
-      "signal_type": "regulatory"
+      "signal_type": "operational"
     },
     {
       "id": "40eea40590d74adb",
@@ -2061,7 +2061,7 @@
         "Binance"
       ],
       "countries": [],
-      "signal_type": "operational"
+      "signal_type": "other"
     },
     {
       "id": "517296dd090eeb24",
@@ -2159,7 +2159,7 @@
         "Coinbase"
       ],
       "countries": [],
-      "signal_type": "market_expansion"
+      "signal_type": "other"
     },
     {
       "id": "dbf116928b152d1d",
@@ -2173,7 +2173,7 @@
         "Binance"
       ],
       "countries": [],
-      "signal_type": "product_launch"
+      "signal_type": "other"
     },
     {
       "id": "2d33a689f772c48b",
@@ -2297,7 +2297,7 @@
         "Binance"
       ],
       "countries": [],
-      "signal_type": "regulatory"
+      "signal_type": "other"
     },
     {
       "id": "549495c232e898fd",
@@ -2495,7 +2495,7 @@
         "Binance"
       ],
       "countries": [],
-      "signal_type": "regulatory"
+      "signal_type": "other"
     },
     {
       "id": "9923de9df967aaba",
@@ -2547,7 +2547,7 @@
         "Bybit"
       ],
       "countries": [],
-      "signal_type": "product_launch"
+      "signal_type": "other"
     },
     {
       "id": "404d6ceb908d7c3e",
@@ -2623,7 +2623,7 @@
         "Binance"
       ],
       "countries": [],
-      "signal_type": "product_launch"
+      "signal_type": "other"
     },
     {
       "id": "591fe90eba10ab0e",
@@ -2637,7 +2637,7 @@
         "Bybit"
       ],
       "countries": [],
-      "signal_type": "product_launch"
+      "signal_type": "other"
     },
     {
       "id": "2d2e9fa1ea848982",
@@ -2903,7 +2903,7 @@
         "Crypto.com"
       ],
       "countries": [],
-      "signal_type": "regulatory"
+      "signal_type": "operational"
     },
     {
       "id": "0cc3b6837d81be68",
@@ -3003,7 +3003,7 @@
         "Binance"
       ],
       "countries": [],
-      "signal_type": "regulatory"
+      "signal_type": "operational"
     },
     {
       "id": "02bd206d1876c191",
@@ -3053,7 +3053,7 @@
         "Coinbase"
       ],
       "countries": [],
-      "signal_type": "partnership"
+      "signal_type": "product_launch"
     },
     {
       "id": "8e5039dd7768a5f5",
@@ -3079,7 +3079,7 @@
         "Binance"
       ],
       "countries": [],
-      "signal_type": "regulatory"
+      "signal_type": "operational"
     },
     {
       "id": "62fa5d1e773d283e",
@@ -3253,7 +3253,7 @@
         "Binance"
       ],
       "countries": [],
-      "signal_type": "regulatory"
+      "signal_type": "operational"
     },
     {
       "id": "8e4000d1c529c5ed",
@@ -3303,7 +3303,7 @@
         "Coinbase"
       ],
       "countries": [],
-      "signal_type": "operational"
+      "signal_type": "other"
     },
     {
       "id": "84154144a6e19c8c",
@@ -3579,7 +3579,7 @@
         "Crypto.com"
       ],
       "countries": [],
-      "signal_type": "regulatory"
+      "signal_type": "operational"
     },
     {
       "id": "e8d017c0fbc43f3f",
@@ -3693,7 +3693,7 @@
         "OKX"
       ],
       "countries": [],
-      "signal_type": "partnership"
+      "signal_type": "product_launch"
     },
     {
       "id": "8ec81e3300a2862f",
@@ -3707,7 +3707,7 @@
         "Binance"
       ],
       "countries": [],
-      "signal_type": "operational"
+      "signal_type": "other"
     },
     {
       "id": "ee2f1aaade95b4f6",
@@ -3771,7 +3771,7 @@
         "Binance"
       ],
       "countries": [],
-      "signal_type": "partnership"
+      "signal_type": "other"
     },
     {
       "id": "12e3fc39825bb38d",
@@ -3859,7 +3859,7 @@
         "Coinbase"
       ],
       "countries": [],
-      "signal_type": "partnership"
+      "signal_type": "other"
     },
     {
       "id": "adb86de3ebc2951d",
@@ -3873,7 +3873,7 @@
         "OKX"
       ],
       "countries": [],
-      "signal_type": "product_launch"
+      "signal_type": "operational"
     },
     {
       "id": "c0d964e8b66af523",
@@ -3943,7 +3943,7 @@
         "Crypto.com"
       ],
       "countries": [],
-      "signal_type": "product_launch"
+      "signal_type": "other"
     },
     {
       "id": "248ee89503f3fdcd",
@@ -3957,7 +3957,7 @@
         "Binance"
       ],
       "countries": [],
-      "signal_type": "product_launch"
+      "signal_type": "other"
     },
     {
       "id": "6a4729affd5af7ac",
@@ -3985,7 +3985,7 @@
         "OKX"
       ],
       "countries": [],
-      "signal_type": "regulatory"
+      "signal_type": "operational"
     },
     {
       "id": "6f39f025ecc36f6b",
@@ -3999,7 +3999,7 @@
         "Crypto.com"
       ],
       "countries": [],
-      "signal_type": "regulatory"
+      "signal_type": "operational"
     },
     {
       "id": "94f0a88367da4385",
@@ -4027,7 +4027,7 @@
         "Coinbase"
       ],
       "countries": [],
-      "signal_type": "product_launch"
+      "signal_type": "other"
     },
     {
       "id": "6f6e5712ac1b8b5b",
@@ -4083,7 +4083,7 @@
         "Crypto.com"
       ],
       "countries": [],
-      "signal_type": "regulatory"
+      "signal_type": "operational"
     },
     {
       "id": "3e4c27df8b97db13",
@@ -4097,7 +4097,7 @@
         "Crypto.com"
       ],
       "countries": [],
-      "signal_type": "product_launch"
+      "signal_type": "operational"
     },
     {
       "id": "b4fadf74d4e947aa",
@@ -4139,7 +4139,7 @@
         "Crypto.com"
       ],
       "countries": [],
-      "signal_type": "regulatory"
+      "signal_type": "operational"
     },
     {
       "id": "b8703a942593d58d",
@@ -4167,7 +4167,7 @@
         "Crypto.com"
       ],
       "countries": [],
-      "signal_type": "regulatory"
+      "signal_type": "operational"
     },
     {
       "id": "09955fdf9ac6230c",
@@ -4239,7 +4239,7 @@
       "countries": [
         "Singapore"
       ],
-      "signal_type": "product_launch"
+      "signal_type": "other"
     },
     {
       "id": "52a38c8e3aa84a05",
@@ -4255,7 +4255,7 @@
       "countries": [
         "Singapore"
       ],
-      "signal_type": "operational"
+      "signal_type": "other"
     },
     {
       "id": "3c385a2577b62aa7",
@@ -4271,7 +4271,7 @@
       "countries": [
         "Singapore"
       ],
-      "signal_type": "operational"
+      "signal_type": "other"
     },
     {
       "id": "7cd34f56ca1f0f87",
@@ -4301,7 +4301,7 @@
         "OKX"
       ],
       "countries": [],
-      "signal_type": "operational"
+      "signal_type": "product_launch"
     },
     {
       "id": "6c257d500dc61a48",
@@ -4315,7 +4315,7 @@
         "OKX"
       ],
       "countries": [],
-      "signal_type": "partnership"
+      "signal_type": "product_launch"
     },
     {
       "id": "9c5ff6b76c3d8721",
@@ -4331,7 +4331,7 @@
       "countries": [
         "Singapore"
       ],
-      "signal_type": "operational"
+      "signal_type": "other"
     },
     {
       "id": "0c213181fbc353b9",
@@ -4375,7 +4375,7 @@
         "OKX"
       ],
       "countries": [],
-      "signal_type": "operational"
+      "signal_type": "other"
     },
     {
       "id": "ef3f0f10d7f3eb84",
@@ -4408,7 +4408,7 @@
       "countries": [
         "Singapore"
       ],
-      "signal_type": "partnership"
+      "signal_type": "other"
     },
     {
       "id": "c43dd24a56a43203",
@@ -4468,7 +4468,7 @@
       "countries": [
         "Singapore"
       ],
-      "signal_type": "product_launch"
+      "signal_type": "other"
     },
     {
       "id": "5161bf4537cde5e9",
@@ -4618,7 +4618,7 @@
         "Coinbase"
       ],
       "countries": [],
-      "signal_type": "partnership"
+      "signal_type": "other"
     },
     {
       "id": "dfb3fcf8fd8329c0",
@@ -4632,7 +4632,7 @@
         "Coinbase"
       ],
       "countries": [],
-      "signal_type": "regulatory"
+      "signal_type": "other"
     },
     {
       "id": "5eaf1e653826b593",
@@ -4646,7 +4646,7 @@
         "Coinbase"
       ],
       "countries": [],
-      "signal_type": "product_launch"
+      "signal_type": "partnership"
     },
     {
       "id": "a2ad47a954950b38",
@@ -4660,7 +4660,7 @@
         "Coinbase"
       ],
       "countries": [],
-      "signal_type": "product_launch"
+      "signal_type": "other"
     },
     {
       "id": "677e555fb09443bb",
@@ -4716,7 +4716,7 @@
         "Coinbase"
       ],
       "countries": [],
-      "signal_type": "regulatory"
+      "signal_type": "partnership"
     },
     {
       "id": "5186c1cb56a5c8e5",
@@ -4758,7 +4758,7 @@
         "Revolut"
       ],
       "countries": [],
-      "signal_type": "product_launch"
+      "signal_type": "other"
     },
     {
       "id": "f8e34fa547e790d5",
@@ -4828,7 +4828,7 @@
         "Revolut"
       ],
       "countries": [],
-      "signal_type": "product_launch"
+      "signal_type": "other"
     },
     {
       "id": "507539d799ec0c8a",
@@ -4870,7 +4870,7 @@
         "Revolut"
       ],
       "countries": [],
-      "signal_type": "product_launch"
+      "signal_type": "other"
     },
     {
       "id": "95e7c68d63684c67",
@@ -4898,7 +4898,7 @@
         "Revolut"
       ],
       "countries": [],
-      "signal_type": "product_launch"
+      "signal_type": "other"
     },
     {
       "id": "272749959ec20450",
@@ -4912,7 +4912,7 @@
         "Revolut"
       ],
       "countries": [],
-      "signal_type": "product_launch"
+      "signal_type": "other"
     },
     {
       "id": "4f161a6d441302c8",
@@ -4940,7 +4940,7 @@
         "Revolut"
       ],
       "countries": [],
-      "signal_type": "product_launch"
+      "signal_type": "other"
     },
     {
       "id": "a3abfb7cbdbd33f4",
@@ -4957,5 +4957,5 @@
       "signal_type": "other"
     }
   ],
-  "classification_run_at": "2026-05-16T14:25:35.742368+00:00"
+  "classification_run_at": "2026-05-16T14:34:43.906342+00:00"
 }

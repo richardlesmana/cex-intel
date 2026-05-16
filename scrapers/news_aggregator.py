@@ -66,9 +66,7 @@ COMPETITOR_PATTERNS: dict[str, list[str]] = {
     "Coinhako":   [r"\bCoinhako\b"],
     "Crypto.com": [r"\bCrypto\.com\b", r"\bCronos\b"],
     "Revolut":    [r"\bRevolut\b"],
-    "MooMoo":     [r"\bMooMoo\b"],
-    "Coinspot":   [r"\bCoinspot\b"],
-    "Swyftx":     [r"\bSwyftx\b"],
+    "MooMoo":     [r"\bMooMoo\b"],  # low-signal but valid SG fintech competitor
 }
 
 # CZ: Binance founder. Only tag Binance if CZ appears AND Binance/BNB is also present.
